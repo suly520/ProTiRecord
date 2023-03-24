@@ -1,7 +1,7 @@
 # ProTiRecord
 simple python application to store time on different project numbers
 
-Simply insert a projectnumber and the time store it by pressing "set time" and add it if it is the same month the same year and project.
+Simply insert a projectnumber and the time, store it by pressing "set time" and add it if it is the same month the same year and project.
 
 ![plot](./images/first_look.gif)
 
